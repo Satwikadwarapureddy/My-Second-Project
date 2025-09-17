@@ -1,0 +1,3 @@
+Satwika Dwarapureddy
+Course: BCA
+GitHub is a platform that hosts code,manages versions, and enables collaboration among developers
